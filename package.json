@@ -1,0 +1,34 @@
+{
+  "name": "librarize.me-node.js-api",
+  "version": "0.0.1",
+  "description": "Réalisation de l'API de l'application Librarize.me en Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "debug": "node-dev index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TristanEduProjet/Librarize.me-API-Node.JS.git"
+  },
+  "keywords": [
+    "Librarize.me",
+    "Librarize",
+    "NodeJS",
+    "Node.js",
+    "API"
+  ],
+  "author": {
+    "name": "Tristan",
+    "url": "https://github.com/TristanEduProjet"
+  },
+  "contributors": [
+  ],
+  "license": "none",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/TristanEduProjet/Librarize.me-API-Node.JS/issues"
+  },
+  "homepage": "https://github.com/TristanEduProjet/Librarize.me-API-Node.JS#readme"
+}
