@@ -9,4 +9,24 @@ L'[application](https://play.google.com/store/apps/details?id=com.digipolitan.li
 L'objectif du projet est de refaire une api en NodeJS qui se rapproche le plus de l’API en PHP actuelle.
 
 ## API / Fonctionnalités
-...
+Si requête POST (REST), alors écahnge 100% en JSON.
+
+### Utilisateur
+Un utilisateur doit pouvoir s'inscrire et se connecter.  
+Une timeline doit présenter les derniers évènements qui se sont produit récemment dans l'application.
+Un utilisateur peut modifier sont profil.
+
+###Amis
+Un utilisateur peut ajouter et enlever des amis (autres utilisateurs) (CRUD)
+Un utilisateur peut voir la bibliothèque de ses amis.
+
+### Produit
+Il y a 4 types de produits.  
+Des recherches peuevent être faites.
+
+### Emprunt
+Est un échange entre 2 utilisateurs
+
+## Bonus
+* BDD en NoSQL (MongoDB)
+* API Amazon (product api)
