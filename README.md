@@ -16,7 +16,7 @@ Un utilisateur doit pouvoir s'inscrire et se connecter.
 Une timeline doit présenter les derniers évènements qui se sont produit récemment dans l'application.
 Un utilisateur peut modifier sont profil.
 
-###Amis
+### Amis
 Un utilisateur peut ajouter et enlever des amis (autres utilisateurs) (CRUD)
 Un utilisateur peut voir la bibliothèque de ses amis.
 
