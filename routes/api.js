@@ -2,12 +2,9 @@
 
 const router = require('express').Router();
 
-/* GET home page. */
+/* GET ... listing. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Express' });
+    res.send('respond with a resource');
 });
-
-/* REST API */
-router.use('/', require('./api'));
 
 module.exports = router;
