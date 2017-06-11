@@ -15,7 +15,9 @@
     "express": "~4.14.1",
     "jade": "~1.11.0",
     "morgan": "~1.7.0",
-    "serve-favicon": "~2.3.2"
+    "sequelize": "^4.0.0",
+    "serve-favicon": "~2.3.2",
+    "sqlite3": "^3.1.8"
   },
   "repository": {
     "type": "git",
@@ -32,12 +34,14 @@
     "name": "Tristan",
     "url": "https://github.com/TristanEduProjet"
   },
-  "contributors": [
-  ],
+  "contributors": [],
   "license": "none",
   "private": true,
   "bugs": {
     "url": "https://github.com/TristanEduProjet/Librarize.me-API-Node.JS/issues"
   },
-  "homepage": "https://github.com/TristanEduProjet/Librarize.me-API-Node.JS#readme"
+  "homepage": "https://github.com/TristanEduProjet/Librarize.me-API-Node.JS#readme",
+  "devDependencies": {
+    "sequelize-cli": "^2.7.0"
+  }
 }
