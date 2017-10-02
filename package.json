@@ -9,13 +9,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "body-parser": "~1.16.0",
+    "body-parser": "~1.18.2",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.0",
-    "express": "~4.14.1",
+    "express": "~4.16.0",
     "jade": "~1.11.0",
-    "morgan": "~1.7.0",
-    "serve-favicon": "~2.3.2"
+    "morgan": "~1.9.0",
+    "serve-favicon": "~2.4.5"
   },
   "repository": {
     "type": "git",
@@ -32,8 +32,7 @@
     "name": "Tristan",
     "url": "https://github.com/TristanEduProjet"
   },
-  "contributors": [
-  ],
+  "contributors": [],
   "license": "none",
   "private": true,
   "bugs": {
